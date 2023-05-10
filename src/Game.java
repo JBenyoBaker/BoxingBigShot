@@ -10,7 +10,7 @@ public class Game
 
     ImageIcon b4 = new ImageIcon("Resources/Boxer2L.png");
     private Boxer boxer1 = new Boxer(10, 10, 10, 100, 350, b1, b2);
-    private Boxer boxer2 = new Boxer(10,10,10, 500, 350, b3, b4);
+    private Boxer boxer2 = new Boxer(10,10,10, 600, 350, b3, b4);
 
     private Gui graphics;
     public Game()

@@ -20,6 +20,7 @@ public class Game
 
     public void playGame()
     {
+        graphics.paintInstructions(graphics.getGraphics());
         graphics.repaint();
     }
 

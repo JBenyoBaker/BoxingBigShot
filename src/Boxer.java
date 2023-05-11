@@ -108,8 +108,20 @@ public class Boxer
         return images;
     }
 
-    public void setX(int x) {
-        this.x = x;
+    public void setX(int x)
+    {
+        if (x > 0 && x < 775)
+        {
+            this.x = x;
+        }
+        else if (x <= 0)
+        {
+            x = 0;
+        }
+        else
+        {
+            x = 775;
+        }
     }
 
     public int getY() {

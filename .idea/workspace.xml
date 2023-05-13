@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b894075-8ef4-45a9-94d7-63c9e4a5f5b2" name="Changes" comment="Got health to work.Next step is adding regen and getting the win screen to stay">
-      <change afterPath="$PROJECT_DIR$/Resources/BoxingRing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/FirstScreen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Winner!.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/pixil-frame-0 (1).png" afterDir="false" />
+    <list default="true" id="7b894075-8ef4-45a9-94d7-63c9e4a5f5b2" name="Changes" comment="New front screen, win screen working, boxers limited to the boxing ring.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Boxer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Boxer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
@@ -80,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683744981062</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New front screen, win screen working, boxers limited to the boxing ring.">
+      <created>1683845947184</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683845947184</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +101,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Boxers moving and punching. Next step is displaying health." />
     <MESSAGE value="Got health to work.Next step is adding regen and getting the win screen to stay" />
-    <option name="LAST_COMMIT_MESSAGE" value="Got health to work.Next step is adding regen and getting the win screen to stay" />
+    <MESSAGE value="New front screen, win screen working, boxers limited to the boxing ring." />
+    <option name="LAST_COMMIT_MESSAGE" value="New front screen, win screen working, boxers limited to the boxing ring." />
   </component>
 </project>
